@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patches>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/StorytellerDef[defName="Phoebe"]/label</xpath>
+		<value>
+			<label>Phoebe Chillax</label>
+		</value>
+	</Operation>
+
+</Patches>

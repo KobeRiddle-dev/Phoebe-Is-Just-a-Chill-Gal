@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+    <name>Progression: Storytellers</name>
+    <author>Kobe Riddle</author>
+    <packageId>KobeRiddle.PhoebeIsJustAChillGal.</packageId>
+    <description>Progression: Storytellers renames Phoebe to "Chelsea".\n\nThis patch renames Phoebe back to Phoebe from Chelsea.\n\nShe's a chill gal; her name doesn't need to alliterate.
+    </description>
+    <supportedVersions>
+        <li>1.5</li>
+        <li>1.6</li>
+    </supportedVersions>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+        <li>Ludeon.RimWorld.Biotech</li>
+        <li>Ludeon.RimWorld.Anomaly</li>
+        <li>Ludeon.RimWorld.Odyssey</li>
+        <li>Ferny.ProgressionStorytellers</li>
+    </loadAfter>
+</ModMetaData>
