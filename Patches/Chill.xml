@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<Patches>
+<Patch>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/StorytellerDef[defName="Phoebe"]/label</xpath>
@@ -9,4 +9,4 @@
 		</value>
 	</Operation>
 
-</Patches>
+</Patch>
